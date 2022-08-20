@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-#current pid
+#display script pid
 
-echo $$
+echo "$$"

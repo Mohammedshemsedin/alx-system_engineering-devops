@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# to infinit and beyond
+#displays To infinity and beyond indefinitely
 
 count=1
 while [ "$count" -gt 0 ]

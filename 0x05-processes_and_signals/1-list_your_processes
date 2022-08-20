@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-#list all pids
+#display info of all current running processes
 
 ps -faux
